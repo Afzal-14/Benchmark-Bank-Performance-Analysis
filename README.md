@@ -1,5 +1,7 @@
 # Benchmark Bank Performance Analysis using Power BI
 
+[Resources](https://shahyaseen71.gitbook.io/business-intelligence-project/)
+
 [Link to Dashboard](https://app.powerbi.com/reportEmbed?reportId=4aae5e8e-febd-48d3-a32f-629e5368d25e&autoAuth=true&ctid=c7e7e149-4fde-41b0-83ea-7a16989e67f8)
 
 ## Table of Contents
